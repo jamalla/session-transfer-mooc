@@ -16,3 +16,4 @@ models/**/*
 !models/**/
 !models/**/.gitkeep
 .vscode/
+results/**/*
